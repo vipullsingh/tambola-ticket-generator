@@ -12,7 +12,7 @@ const app = express();
 app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
-  res.send('API assignment server is running');
+  res.send('Tambola Ticket generator API Running');
 });
 
 // Routes

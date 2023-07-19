@@ -68,13 +68,13 @@ To install the required dependencies, follow these steps:
 3. Run the following command to install the dependencies:
 
 ```
-npm install express mongoose lodash
+npm install express mongoose lodash jsonwebtoken body-parser cors dotenv nodemon
 ```
 
 or
 
 ```
-yarn add express mongoose lodash
+yarn add express mongoose lodash jsonwebtoken body-parser cors dotenv nodemon
 ```
 
 This will install the required dependencies for the Tambola Ticket Generation application.

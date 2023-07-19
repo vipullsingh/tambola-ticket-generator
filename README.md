@@ -1,5 +1,7 @@
 ## Tambola Ticket Generation - Readme
 
+Deployed Link : https://tambola-ticket-generator.onrender.com/
+
 ### Problem Statement
 
 The problem is to generate Tambola tickets adhering to certain rules. The rules are as follows:
